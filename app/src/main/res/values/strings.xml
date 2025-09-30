@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digimind</string>
+    <string name="title_home">My Board</string>
+    <string name="title_dashboard">New Reminder</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="take_my_pill">Take my pill</string>
+</resources>
